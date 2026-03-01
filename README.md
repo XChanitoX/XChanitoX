@@ -185,7 +185,7 @@ const christian = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-twitter)
 
-### 💬 `"Coding from paradise 🏝️"` 
+### 💬 `"Coding outside the matrix 🖤"` 
 
 ![Visitor Count](https://profile-counter.glitch.me/XChanitoX/count.svg)
 
@@ -196,6 +196,6 @@ const christian = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,18&height=150&section=footer" width="100%"/>
 
-### 🌊 Powered by ocean waves, code, and tropical vibes 🌴
+### 💲 Powered by hatred of fiat money. 🔥
 
 </div>
