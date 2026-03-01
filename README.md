@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Cyberpunk Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=CHRISTIAN%20SALAZAR&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=00ff41&desc=FULL%20STACK%20DEVELOPER%20|%20ML%20ENGINEER&descAlignY=55&descSize=25" width="100%"/>
+<!-- Beach Paradise Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,18&height=300&section=header&text=CHANITO&fontSize=120&fontAlignY=35&animation=twinkling&fontColor=00d4ff&desc=FULL%20STACK%20DEVELOPER%20|%20ML%20ENGINEER&descAlignY=55&descSize=25" width="100%"/>
 
-<!-- Typing SVG with Cyberpunk theme -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+the+Matrix+%F0%9F%A4%96;Building+the+Future+with+Code+%E2%9A%A1;Machine+Learning+%7C+Web+Dev+%F0%9F%9A%80;BTC+to+the+Moon+%F0%9F%8C%95%F0%9F%92%8E" alt="Typing SVG" /></a>
+<!-- Typing SVG with Beach Paradise theme -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+Paradise+%F0%9F%8C%B4;Coding+by+the+Beach+%F0%9F%8F%96%EF%B8%8F;Machine+Learning+%7C+Web+Dev+%F0%9F%8C%8A;BTC+to+the+Moon+%F0%9F%8C%95%F0%9F%92%8E" alt="Typing SVG" /></a>
 
-<!-- Neon Divider -->
+<!-- Beach Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
@@ -59,21 +59,21 @@ const christian = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## ⚡ \`$ stats --realtime\`
+## ⚡ `$ stats --realtime`
 
 <div align="center">
 
-<!-- GitHub Stats Card - Cyberpunk Theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=XChanitoX&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
+<!-- GitHub Stats Card - Beach Paradise Theme -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=XChanitoX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=58a6ff"/>
 
 <!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XChanitoX&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XChanitoX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=58a6ff"/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XChanitoX&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff0000&currStreakLabel=00ff41" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XChanitoX&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ffa500&currStreakLabel=00d4ff" width="49%"/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XChanitoX&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XChanitoX&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=58a6ff&point=00d4ff" width="100%"/>
 
 </div>
 
@@ -82,12 +82,12 @@ const christian = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 🏆 \`$ achievements --list\`
+## 🏆 `$ achievements --list`
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=XChanitoX&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<!-- GitHub Trophies - Beach Paradise Theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=XChanitoX&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 </div>
 
@@ -140,15 +140,15 @@ const christian = {
 
 <!-- Project Cards -->
 <a href="https://github.com/XChanitoX/NodejsRESTAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XChanitoX&repo=NodejsRESTAPI&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XChanitoX&repo=NodejsRESTAPI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=58a6ff" />
 </a>
 
 <a href="https://github.com/XChanitoX/React_App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XChanitoX&repo=React_App&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XChanitoX&repo=React_App&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=58a6ff" />
 </a>
 
 <a href="https://github.com/XChanitoX/Laboratorio2_BD2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XChanitoX&repo=Laboratorio2_BD2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XChanitoX&repo=Laboratorio2_BD2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=58a6ff" />
 </a>
 
 </div>
@@ -185,17 +185,17 @@ const christian = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-twitter)
 
-### 💬 \`"Code is poetry written in logic"\` 
+### 💬 `"Coding from paradise 🏝️"` 
 
 ![Visitor Count](https://profile-counter.glitch.me/XChanitoX/count.svg)
 
 </div>
 
-<!-- Cyberpunk Footer -->
+<!-- Beach Paradise Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,18&height=150&section=footer" width="100%"/>
 
-### ⚡ Powered by caffeine, code, and crypto ⚡
+### 🌊 Powered by ocean waves, code, and tropical vibes 🌴
 
 </div>
