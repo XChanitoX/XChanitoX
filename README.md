@@ -11,9 +11,26 @@
 
 </div>
 
-## 🦈 \`$ whoami\`
+## 🦈 `$ whoami`
 
-\`\`\`javascript
+```
+                              ___._
+                            .'  <0>'-.._
+                           /  /.--.____")
+                          |   \   __.-'~
+                          |  :  -'/                         🦖 T-REX DEVELOPER
+                         /:.  :.-'                          Coding since the Jurassic!
+         __________     |:. ./
+        /'._.-    _.-`  ::/               
+       /  /  .--  '.  /:/
+      /  '-._    _.:\ /:/
+     :.       .-'   |:/
+    /:.  .:-'      |/
+   /  .-'~
+  /__/`
+```
+
+```javascript
 const christian = {
   code: ["JavaScript", "TypeScript", "Python", "C++", "Java"],
   askMeAbout: ["web dev", "machine learning", "backend", "API design", "crypto"],
@@ -35,7 +52,7 @@ const christian = {
   location: "Perú 🇵🇪",
   organization: "CreaxAI"
 };
-\`\`\`
+```
 
 <!-- Neon Divider -->
 <div align="center">
